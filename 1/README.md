@@ -1,0 +1,7 @@
+- input/print
+- variables
+- data types
+- - integer
+- - float
+- - string
+- - boolean
